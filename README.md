@@ -1,3 +1,17 @@
+# Requirements
+
+There are some requirements to installing and using this plugin:
+
+    Linux server
+    root access
+    cPanel (ofcourse)
+    Apache with Su-exec
+
+# Very Important (Avoid 404)
+
+You have to enable wordpress addon first from within WHM by going to:
+
+cPanel »Install cPAddons Site Software
 
 ### cPanel plugin: Installer for WordPress
 
@@ -7,15 +21,6 @@ At my work we use mostly WordPress as a CMS, and we liked to have an installer f
 Simplescripts is a free alternative, but it wasn’t my cup of tea. You have to configure WordPress on the simplescript website, and I don’t like handing over login data like that, especially when I don’t see the need for that. Further I just couldn’t get it working, I just didn’t understand it.
 All the other installers cost around 50 or 60 Euro’s, and I don’t like to pay that. Also, I don’t need a complete suite of installers, just a WordPress installer.
 So I built a script myself.
-
-## Requirements
-
-There are some requirements to installing and using this plugin:
-
-    Linux server
-    root access
-    cPanel (ofcourse)
-    Apache with Su-exec
 
 ## Installation
 
